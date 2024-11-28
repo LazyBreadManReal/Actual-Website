@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bubble Login</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link rel="stylesheet" href="assets/css/login-page.css">
+</head>
+<body>
+  <div class="bubble-container">
+    <div class="bubble">
+      <div class="login-section">
+        <div class="logo">
+          <img src="assets/images/school-logo.png" alt="School Logo">
+        </div>
+
+        <h2>Pasig City Science High School</h2>
+        <h1>Login to Your Account</h1>
+        <p>Login using social networks</p>
+        
+        <div class="social-icons">
+            <a href="#" class="icon"><i class="fa-brands fa-google"></i></a>
+            <a href="#" class="icon"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#" class="icon"><i class="fa-brands fa-instagram"></i></a>
+          </div>
+        <div class="divider">
+          <span>OR</span>
+        </div>
+        <form id="login-form">
+          <input type="email" placeholder="Email" id="email" required>
+          <input type="password" placeholder="Password" id="password" required>
+          <button type="submit" class="login-btn">Sign In</button>
+        </form>
+      </div>
+      <div class="signup-section">
+        <h2>New Here?</h2>
+        <p>Sign up and discover a great amount of new opportunities!</p>
+        <button class="signup-btn">Sign Up</button>
+      </div>
+    </div>
+  </div>
+  <div class="pop-up pop-up-hidden">
+    <div class="pop-up-content">
+    </div>
+  </div>
+  <script src="assets/js/api-modules.js"></script>
+  <script src="assets/js/login.js"></script>
+</body>
+</html>

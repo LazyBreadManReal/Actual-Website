@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$SCBzZwTY0ijE9KjQSm9TDuvJ9CUL7UczlBBMXyDuOuVYB21n6G/pG"
+    },
+    {
+      "userId": 2,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$rNnjCjonMjdwkpjBKIcGxelLhCN80po1XNYz6T94ar8WlXBEGUn1O"
+    },
+    {
+      "userId": 3,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$XZR6pdfR8HaQdEyH568ykuF6ZZgdN1R3HwvxSPL0yd8FEoTjJNoWG"
+    },
+    {
+      "userId": 4,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$gDziJ1y9FYKI28PQay10oOC3HGg6o3BCPNexaPDbK1eKlAiXAm3GO"
+    },
+    {
+      "userId": 5,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$DeuKmVcQapPEjdCphJDMauQwVnPMIj5Vsko3NvZmfZRx21SucG84i"
+    },
+    {
+      "userId": 6,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$3KwIQbI.Sumzen4vV14E5uyVuL/ymJUlYs8mw8Q4jooSm0TGtUmCi"
+    },
+    {
+      "userId": 7,
+      "username": "bob",
+      "email": "bob@gmail.com",
+      "password": "$2a$10$PrQODDVC64i/Q0slTT2WYeMHWqZk4Lr5CXBN02qv1EDn0qJEvMeGC"
+    },
+    {
+      "userId": 8,
+      "email": "bobof@gmail.com",
+      "password": "$2a$10$pC2Mai.cQt8HR9TSfHS8k.8fSTbQ2iRbQhgwIQPfN5mzB04bxXQv6"
+    },
+    {
+      "userId": 9,
+      "email": "Man@gmail.com",
+      "password": "$2a$10$HxgNjWo6WKcoKu2LQl6tG.4IH5Jrf7tz3Of6CHwnNZ1d4lhH4icJe"
+    },
+    {
+      "userId": 10,
+      "email": "orig@gmail.com",
+      "password": "$2a$10$1Oyi8fVcZZu.jHMi1lhF2Ok78ELneuPFDmMV7V/o9ITnZb8FhIGFu"
+    },
+    {
+      "userId": 11,
+      "username": "Legit account",
+      "email": "legit123@gmail.com",
+      "password": "$2a$10$3UacWzK6nYqjHeNAlbarLuSVezHhQ6Pls69rtLlk2OqC7N2pmFMTC"
+    },
+    {
+      "userId": 12,
+      "username": "making legit account",
+      "email": "wowamazing@gmail.com",
+      "password": "$2a$10$MAQ/Xg5A6.5LJq/RWbdrEOu/FmPXKHTJ/opZ9KKA.4QIMoPUgyZae"
+    },
+    {
+      "userId": 13,
+      "username": "jlkadk james",
+      "email": "jjjjj@gmail.com",
+      "password": "$2a$10$Bt7km83P5/S3FuSl.uk/7eG1fKyYrfTDYLVNPnGBxD3CviZ/rSp6W"
+    }
+  ],
+  "items": []
+}
